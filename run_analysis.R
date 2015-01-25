@@ -2,6 +2,7 @@
 # Course Project
 
 # File constants
+# Set the root path to where the data set is saved
 rootPath <- "/Users/tpolling/data/a-pers/courses/coursera/data-science/DataGathering/w3/UCI\ HAR\ Dataset"
 trainDataPath <- paste(rootPath, "train", sep="/")
 testDataPath <- paste(rootPath, "test", sep="/")
